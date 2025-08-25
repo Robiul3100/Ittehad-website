@@ -117,7 +117,7 @@ function toggleDropdown() {
 }
 
 // আপনার ব্লগার URL দিন
-const blogURL = "https://ittehadul-ummah.blogspot.com/feeds/posts/default?alt=json&max-results=3";
+const blogURL = "https://al-ittehad-gunabati.blogspot.com/feeds/posts/default?alt=json&max-results=3";
 
 fetch(blogURL)
   .then(res => res.json())
