@@ -1,9 +1,9 @@
-document.getElementById("notice-box").innerHTML = `
+8document.getElementById("notice-box").innerHTML = `
   <style>
     .notice-container {
       width: 100%;
       max-width: 600px;
-      margin: auto;
+      margin: 0px;
       font-family: 'Hind Siliguri', sans-serif;
     }
 
